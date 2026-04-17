@@ -13,7 +13,7 @@
 }
 
 .card {
-  background: white;
+  background: rgb(238, 159, 201);
   padding: 25px;
   border-radius: 15px;
   width: 300px;
@@ -63,4 +63,10 @@
   .card {
     width: 90%;
   }
+} 
+
+body {
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(135deg, #baea66, #764ba2);
 }
